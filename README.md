@@ -4,7 +4,7 @@ This private repository provides access to the original available data files ass
 
 ## Download
 
-Download `Data_upload_package_20261113.zip` from the repository **Releases** page. The archive contains the original data exports and descriptive sample metadata. No analysis code, processed matrices or mean spectra are included.
+Download [Data_upload_package_20261113.zip](https://github.com/LUOxuelun/Metabolomics-and-DFT-guide-infrared-recognition-of-herbivory-and-defense-responses-in-tea-plants/releases/download/data-20261113/Data_upload_package_20261113.zip) from the [data release](https://github.com/LUOxuelun/Metabolomics-and-DFT-guide-infrared-recognition-of-herbivory-and-defense-responses-in-tea-plants/releases/tag/data-20261113). The archive contains the original data exports and descriptive sample metadata. No analysis code, processed matrices or mean spectra are included.
 
 ## Contents
 
